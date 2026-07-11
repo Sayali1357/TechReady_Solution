@@ -44,7 +44,7 @@ export const employees: Employee[] = [
         description: "Developed automated testing pipelines reducing deployment errors by 40%."
       }
     ],
-    avatarUrl: "https://i.pravatar.cc/150?u=1"
+    avatarUrl: "/avatar.png"
   },
   {
     id: "EMP-9042",
@@ -65,7 +65,7 @@ export const employees: Employee[] = [
         description: "Led global recruitment strategy, reducing time-to-hire by 15%."
       }
     ],
-    avatarUrl: "https://i.pravatar.cc/150?u=2"
+    avatarUrl: "/avatar.png"
   },
   {
     id: "EMP-7719",
@@ -86,7 +86,7 @@ export const employees: Employee[] = [
         description: "Managed global financial operations and drove profitable growth."
       }
     ],
-    avatarUrl: "https://i.pravatar.cc/150?u=3"
+    avatarUrl: "/avatar.png"
   },
   {
     id: "EMP-8334",
@@ -107,7 +107,7 @@ export const employees: Employee[] = [
         description: "Redesigned content framework, increasing organic traffic by 50%."
       }
     ],
-    avatarUrl: "https://i.pravatar.cc/150?u=4"
+    avatarUrl: "/avatar.png"
   },
   {
     id: "EMP-6551",
@@ -128,7 +128,7 @@ export const employees: Employee[] = [
         description: "Optimized database queries, reducing response times significantly."
       }
     ],
-    avatarUrl: "https://i.pravatar.cc/150?u=5"
+    avatarUrl: "/avatar.png"
   },
   {
     id: "EMP-4992",
@@ -149,7 +149,7 @@ export const employees: Employee[] = [
         description: "Advises executive team on legal risks and global expansion strategies."
       }
     ],
-    avatarUrl: "https://i.pravatar.cc/150?u=6"
+    avatarUrl: "/avatar.png"
   },
   {
     id: "EMP-1029",
@@ -170,7 +170,7 @@ export const employees: Employee[] = [
         description: "Created company-wide UI component library used across 10+ projects."
       }
     ],
-    avatarUrl: "https://i.pravatar.cc/150?u=7"
+    avatarUrl: "/avatar.png"
   },
   {
     id: "EMP-2341",
@@ -191,7 +191,7 @@ export const employees: Employee[] = [
         description: "Implemented new inclusive hiring practices globally."
       }
     ],
-    avatarUrl: "https://i.pravatar.cc/150?u=8"
+    avatarUrl: "/avatar.png"
   },
   {
     id: "EMP-5678",
@@ -212,7 +212,7 @@ export const employees: Employee[] = [
         description: "Built automated financial dashboards for executive leadership."
       }
     ],
-    avatarUrl: "https://i.pravatar.cc/150?u=9"
+    avatarUrl: "/avatar.png"
   },
   {
     id: "EMP-9876",
@@ -233,7 +233,7 @@ export const employees: Employee[] = [
         description: "Redesigned the core employee portal improving user satisfaction by 30%."
       }
     ],
-    avatarUrl: "https://i.pravatar.cc/150?u=10"
+    avatarUrl: "/avatar.png"
   },
   {
     id: "EMP-3456",
@@ -254,7 +254,7 @@ export const employees: Employee[] = [
         description: "Grew social media following by 150% in the first year."
       }
     ],
-    avatarUrl: "https://i.pravatar.cc/150?u=11"
+    avatarUrl: "/avatar.png"
   },
   {
     id: "EMP-7654",
@@ -275,6 +275,6 @@ export const employees: Employee[] = [
         description: "Migrated legacy systems to a fully automated cloud infrastructure."
       }
     ],
-    avatarUrl: "https://i.pravatar.cc/150?u=12"
+    avatarUrl: "/avatar.png"
   }
 ];

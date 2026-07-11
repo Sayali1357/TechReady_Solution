@@ -36,7 +36,7 @@ const Topbar: React.FC<TopbarProps> = ({ searchQuery, setSearchQuery, isDark, to
           {isDark ? <Sun size={20} /> : <Moon size={20} />}
         </button>
         <img
-          src="https://i.pravatar.cc/150?u=a042581f4e29026704d"
+          src="/avatar.png"
           alt="User Profile"
           className="avatar"
         />

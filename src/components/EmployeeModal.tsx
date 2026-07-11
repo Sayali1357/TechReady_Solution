@@ -109,8 +109,8 @@ const EmployeeModal: React.FC<EmployeeModalProps> = ({ employee, onClose }) => {
           <div className="modal-actions">
             <div style={{ display: 'flex', alignItems: 'center', gap: '8px', fontSize: '12px', color: 'var(--text-secondary)' }}>
               <div style={{ display: 'flex' }}>
-                <img src="https://i.pravatar.cc/150?u=1" alt="" style={{ width: 24, height: 24, borderRadius: '50%', border: '2px solid var(--surface-color)', zIndex: 2 }} />
-                <img src="https://i.pravatar.cc/150?u=2" alt="" style={{ width: 24, height: 24, borderRadius: '50%', border: '2px solid var(--surface-color)', marginLeft: -8, zIndex: 1 }} />
+                <img src="/avatar.png" alt="" style={{ width: 24, height: 24, borderRadius: '50%', border: '2px solid var(--surface-color)', zIndex: 2 }} />
+                <img src="/avatar.png" alt="" style={{ width: 24, height: 24, borderRadius: '50%', border: '2px solid var(--surface-color)', marginLeft: -8, zIndex: 1 }} />
               </div>
               Collaborates with the Platform Team
             </div>
